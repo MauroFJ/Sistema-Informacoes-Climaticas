@@ -1,4 +1,4 @@
-# Variáveis de ambiente (NUNCA commitar)
+# Variáveis de ambiente
 .env
 
 # Build do Maven
