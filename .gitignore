@@ -1,0 +1,9 @@
+# Variáveis de ambiente (NUNCA commitar)
+.env
+
+# Build do Maven
+target/
+
+# Configurações do IntelliJ
+.idea/
+*.iml
