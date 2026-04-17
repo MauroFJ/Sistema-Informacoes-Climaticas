@@ -65,7 +65,7 @@
 <p><strong>1.</strong> Clone o repositório:</p>
 
 <pre><code>git clone https://github.com/MauroFJ/Sistema-Informacoes-Climaticas.git
-cd Projeto-Informacoes-Climaticas</code></pre>
+cd Sistema-Informacoes-Climaticas.git</code></pre>
 
 <p><strong>2.</strong> Crie um arquivo <code>.env</code> na raiz do projeto (baseado no <code>.env.example</code>) e adicione sua chave da API:</p>
 
